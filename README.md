@@ -12,7 +12,7 @@ eMail Manager for simple use in contact forms as customer and administrator
 Built with PHP (7.09)<br>
 For live demos click above on **Examples**
 
-**eMM** (abbr. for 'eMail Manager') is a compact and tiny mailing API including a small adjustments for personal desires. This API simplifies the flexible use of several input fields which will be used to send and transport data through a classical mailing process. Useful for setting up customer contact forms and newsletters.
+**eMM** (abbr. for 'eMail Manager') is a compact and tiny mailing API including small adjustments for personal desires. This API simplifies the flexible use of several input fields which will be used to send and transport data through a classical mailing process. Useful for setting up customer contact forms and newsletters.
 
 <br>
 <br>
@@ -27,9 +27,7 @@ Click **eMM** below and choose your download option:
 
 <br>
 For an overview of all versions and bug fixes please check the [Changelog](http://thielicious.github.io/#emm_clog).
-
 <br>
-
 For a detailed installation click [here](http://thielicious.github.io/#emm_doc).
 
 <br>
