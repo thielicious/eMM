@@ -5,6 +5,7 @@ eMail Manager for simple use in contact forms as customer and administrator
 #### [Documentation](http:thielicious.github.io/#emm_doc) | [Changelog](http:thielicious.github.io/#emm_clog) | [Downloads](http:thielicious.github.io/#emm_dls) | [Examples](http:thielicious.github.io/#emm_demo) | [Licence](http:thielicious.github.io/#emm_lic) ####
 
 ---
+<br>
 
 ##INTRODUCTION
 
