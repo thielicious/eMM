@@ -6,9 +6,10 @@ eMail Manager for simple use in contact forms as customer and administrator
 
 ---
 <br>
+<br>
 
-### INTRODUCTION
-
+##INTRODUCTION
+---
 Built with PHP (7.09)<br>
 For live demos click above on **Examples**
 
@@ -17,8 +18,8 @@ For live demos click above on **Examples**
 <br>
 <br>
 
-### SETUP INFORMATION
-
+##SETUP INFORMATION
+---
 **eMM** is a stand-alone API. It requires no additional frameworks or libraries.
 <br><br>
 Use your CLI and enter the following to clone:<br>
@@ -33,12 +34,18 @@ Or click **eMM** below and choose your download option:<br>
 For an overview of all versions and bug fixes please check the [Changelog](http://thielicious.github.io/#emm_clog).
 <br>
 For a detailed installation click [here](http://thielicious.github.io/#emm_doc).
+<br>
+<br>
+
+##USAGE
+---
+Click [here](http://thielicious.github.io/#emm_doc) for detailed information about the usaga.
 
 <br>
 <br>
 
-### EXAMPLES (***code.runnable.io***)
-
+##EXAMPLES (***code.runnable.io***)
+---
 » [Customer Enquiry](#)<br>
 » [Customer Enquiry using AJAX](#)<br>
 » [Administrator Newsletter](#)<br>
