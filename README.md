@@ -21,10 +21,11 @@ For live demos click above on **Examples**
 
 **eMM** is a stand-alone API. It requires no additional frameworks or libraries.
 <br><br>
-Use your CLI and enter the following to clone or click **eMM** below and choose your download option:
+Use your CLI and enter the following to clone:<br>
 <code>
 git clone https://github.com/thielicious/eMM.git
 </code><br>
+Or click **eMM** below and choose your download option:<br>
 » [eMM](http://thielicious.github.io/#emm_dls)
 <br>
 <br>
