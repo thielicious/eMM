@@ -19,7 +19,7 @@ For live demos click above on **Examples**
 <br>
 
 ##SETUP INFORMATION
---
+
 **eMM** is a stand-alone API. It requires no additional frameworks or libraries.
 <br><br>
 Use your CLI and enter the following to clone:<br>
@@ -27,8 +27,8 @@ Use your CLI and enter the following to clone:<br>
 git clone https://github.com/thielicious/eMM.git
 </code><br>
 <br>
-Or click **eMM** below and choose your download option:<br>
-» [eMM](http://thielicious.github.io/#emm_dls)
+Or click below to choose your download option:<br>
+» [Download eMM](http://thielicious.github.io/#emm_dls)
 <br>
 <br>
 For an overview of all versions and bug fixes please check the [Changelog](http://thielicious.github.io/#emm_clog).
@@ -38,14 +38,14 @@ For a detailed installation click [here](http://thielicious.github.io/#emm_doc).
 <br>
 
 ##USAGE
---
+
 Click [here](http://thielicious.github.io/#emm_doc) for detailed information about the usaga.
 
 <br>
 <br>
 
 ##EXAMPLES (***code.runnable.io***)
---
+
 » [Customer Enquiry](#)<br>
 » [Customer Enquiry using AJAX](#)<br>
 » [Administrator Newsletter](#)<br>
