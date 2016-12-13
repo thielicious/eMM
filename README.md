@@ -14,9 +14,9 @@ Built with PHP (7.09)<br>
 For live demos click above on **Examples**
 
 **eMM** (abbr. for 'eMail Manager') is a compact and tiny mailing API including small adjustments for personal desires. This API simplifies the flexible use of several input fields which will be used to send and transport data through a classical mailing process. Useful for setting up customer contact forms and newsletters.
+<br>
+<br>
 
-<br>
-<br>
 
 ##SETUP INFORMATION
 
@@ -37,12 +37,13 @@ For a detailed installation click [here](http://thielicious.github.io/#emm_doc).
 <br>
 <br>
 
+
 ##USAGE
 
-Click [here](http://thielicious.github.io/#emm_doc) for detailed information about the usaga.
+Click [here](http://thielicious.github.io/#emm_doc) for detailed information about the usage.
+<br>
+<br>
 
-<br>
-<br>
 
 ##EXAMPLES (***code.runnable.io***)
 
