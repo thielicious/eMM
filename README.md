@@ -9,7 +9,7 @@ eMail Manager for simple use in contact forms as customer and administrator
 <br>
 
 ##INTRODUCTION
--
+
 Built with PHP (7.09)<br>
 For live demos click above on **Examples**
 
