@@ -19,7 +19,8 @@ For live demos click above on **Examples**
 
 ### SETUP INFORMATION
 
-**eMM** is a stand-alone API. It requires no additional frameworks or libraries.<br><br>
+**eMM** is a stand-alone API. It requires no additional frameworks or libraries.
+<br><br>
 Use your CLI and enter the following to clone:<br>
 <code>
 git clone https://github.com/thielicious/eMM.git
