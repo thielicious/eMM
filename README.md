@@ -39,7 +39,7 @@ For a detailed installation click [here](http://thielicious.github.io/#emm_doc).
 
 ##USAGE
 
-This API consists of two main classes which are designed for the use of a **customer enquiry contact form** and for the use of a **newsletter** as an administrator. Moreover, these are shipped with plenty useful methods for customization.
+This API consists of two main classes which are designed for the use of a **customer enquiry contact form** and for the use of a **newsletter** as an administrator. Moreover, these are shipped with plenty useful methods for customization.<br>
 <br>
 Click [here](http://thielicious.github.io/#emm_doc) for detailed information about the usage.
 <br>
