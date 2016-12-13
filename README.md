@@ -51,7 +51,9 @@ Click [here](http://thielicious.github.io/#emm_doc) for detailed information abo
 » [Customer Enquiry](#)<br>
 » [Customer Enquiry using AJAX](#)<br>
 » [Administrator Newsletter](#)<br>
-
 <br>
-<hr>
+
+
+####If you encounter any bugs, feel free to open up an [issue](https://github.com/thielicious/eMM/issues), thank you.<br>
+---
 [thielicious.github.io] (http://thielicious.github.io)
