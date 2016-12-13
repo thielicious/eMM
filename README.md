@@ -25,6 +25,7 @@ Use your CLI and enter the following to clone:<br>
 <code>
 git clone https://github.com/thielicious/eMM.git
 </code><br>
+<br>
 Or click **eMM** below and choose your download option:<br>
 » [eMM](http://thielicious.github.io/#emm_dls)
 <br>
