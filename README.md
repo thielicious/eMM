@@ -46,11 +46,10 @@ Click [here](http://thielicious.github.io/#emm_doc) for detailed information abo
 <br>
 
 
-##EXAMPLES (***code.runnable.io***)
+##EXAMPLES
 
-» [Customer Enquiry](#)<br>
-» [Customer Enquiry using AJAX](#)<br>
-» [Administrator Newsletter](#)<br>
+» A demo is added to this API. <br>
+After cloning, simply go to the **demo folder** on your localhost.<br>
 <br>
 
 
