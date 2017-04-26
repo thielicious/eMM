@@ -1,6 +1,7 @@
 <?php
 
 	require_once "classes/aLoad.class.php";
+	aload::register(["class", "inc"], "classes/");
 
 	if (isset($_POST["send"])) {
 		if ($_POST["send"] != "Send") {

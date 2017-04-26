@@ -36,6 +36,8 @@
 		protected	
 			$recipient 	= null, $m_header 	= "From: Incoming Customer Enquiry",
 			$message 	= null, $send 		= null,			
+			$success_msg = "Thank you!<br> Your enquiry has been sent.<br>",
+			$fail_msg = "All fields are required to be sent.<br>",
 			$status 	= array(
 				"sent" 	  => null,
 				"fail"    => null,

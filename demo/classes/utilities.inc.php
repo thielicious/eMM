@@ -20,6 +20,7 @@
 		
 		public function method($method);
 		public function recipient($recipient);
+		public function confirm($suc, $fail);
 		public function getName();
 	}
 	

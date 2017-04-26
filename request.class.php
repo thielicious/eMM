@@ -9,7 +9,12 @@
 		public function method($method) {
 			$this->setMethod($method);
 		}
-
+		
+		public function confirm($suc, $fail) {
+			$this->success_msg = $suc;
+			$this->fail_msg = $fail;
+		}
+		
 		protected function assign() {
 			$mess = null;
 			$n = (($this->debug == "on") ? "\n<br>" : "\n");
@@ -56,10 +61,10 @@
 				
 				if ($send) {
 					$this->status["sent"] = 1;
-					echo "Thank you!<br> Your enquiry has been sent.<br>";
+					echo $this->success_msg;
 				} else {
-					$this->status["fail"] = 1;
-					echo "All fields are required to be sent.<br>";	
+					$this->status["fail"] = 1;	
+					echo $this->fail_msg;
 				} 
 			}
 		}

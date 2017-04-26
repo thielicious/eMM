@@ -34,14 +34,13 @@
 			<input type="tel" name="mobile" placeholder="Mobile"><br>
 			<input type="text" name="bic" placeholder="Bank account (BIC)"><br>
 			
-			<input type="text" name="subject" value="Test Mail" placeholder="Subject" required /><br>
+			<input type="text" name="subject" value="Test Mail" /><br>
 			<textarea name="content" placeholder="Message" required>This is a test message. Lorem ipsum dolor sit amet.</textarea><br>
 			<input type="submit" name="send" value="Send"/><br>
 			<span class="result"></span>
 		</form>
 		<script>
 			$(function() {
-				
 				$('#json').css({
 					'background':'#0ff',
 					'color':'#000'
@@ -51,37 +50,6 @@
 					resp	: '.result', 
 					php		: 'json.inc.php'
 				});
-
-				/*(getInputName => {
-					var input = document.querySelectorAll('form input');
-					Object.keys(input).forEach( 
-						(i)=> { 
-							if (input[i].getAttribute('value') != null) 
-								document.write(input[i].getAttribute('name')+'<br>'); 
-						} 
-					);
-				})();*/
-
-				/*(getInputName => {
-					var input = document.querySelectorAll('form input');
-					for (var name in input)
-						if (input.hasOwnProperty(name)) 
-							if (input[name].getAttribute('value') != null) 
-								document.write(input[name].getAttribute('name')+'<br>');
-				})();*/
-
-				/*out = function(val) {
-					this.val = val;
-					this.test =()=> {
-						this.console =()=> {
-							console.log(this.val);
-						};
-						return this.console();
-					}
-				};
-
-				var doe = new out('test');
-				doe.test();*/ 
 			});
 		</script>
 	</body>
