@@ -1,4 +1,4 @@
-<!DOCTPYPE html>
+<!DOCTYPE html>
 	<head>
 		<meta charset="utf-8">
 		<script src="scr/jq.js"></script>
