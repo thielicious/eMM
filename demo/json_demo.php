@@ -23,12 +23,12 @@
 		<button id="post" onClick="window.location.href='post_demo.php'">POST</button>
 		<button id="news" onClick="window.location.href='newsletter_demo.php'">NEWS</button><br><br>
 		<form>
-			<input type="text" name="name" value="Michel Thiel" placeholder="Name" required />
-			<input type="email name="email" value="michel.thiel@gmx.net" pattern="[^@]*@[^@]*" placeholder="Email" required /><br>
+			<input type="text" name="name" value="John Doe" placeholder="Name" required />
+			<input type="email name="email" value="john.doe@email.net" pattern="[^@]*@[^@]*" placeholder="Email" required /><br>
 			
 			<input type="text" name="zip" pattern="[0-9]*" placeholder="Postal Code/ZIP"/>
 			<input type="text" name="address" placeholder="Street name and number"><br>
-			<input type="url" name="website" value="http://www.claxdesign.com" placeholder="Website">
+			<input type="url" name="website" value="http://www.somewebsite.com" placeholder="Website">
 			<input type="date" name="birth" placeholder="Birthday"><br>
 			<input type="tel" name="phone" placeholder="Telephone">
 			<input type="tel" name="mobile" placeholder="Mobile"><br>
@@ -48,7 +48,7 @@
 
 				$('form').eMM({
 					resp	: '.result', 
-					php		: 'json.inc.php'
+					php	: 'json.inc.php'
 				});
 			});
 		</script>
