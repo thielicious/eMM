@@ -23,12 +23,12 @@
 		<button id="post" onClick="window.location.href='post_demo.php'">POST</button>
 		<button id="news" onClick="window.location.href='newsletter_demo.php'">NEWS</button><br><br>
 		<form action="<?php $_SERVER["PHP_SELF"]; ?>" method="POST">
-			<input type="text" id="name" name="name" value="Michel Thiel" placeholder="Name" required />
-			<input type="email" id="email" name="email" value="michel.thiel@gmx.net" pattern="[^@]*@[^@]*" placeholder="Email" required /><br>
+			<input type="text" id="name" name="name" value="John Doe" placeholder="Name" required />
+			<input type="email" id="email" name="email" value="john.doe@email.net" pattern="[^@]*@[^@]*" placeholder="Email" required /><br>
 			
 			<input type="text" id="zip" name="zip" pattern="[0-9]*" placeholder="Postal Code/ZIP"/>
 			<input type="text" id="address" name="address" placeholder="Street name and number"><br>
-			<input type="url" id="website" name="website" value="http://www.claxdesign.com" placeholder="Website">
+			<input type="url" id="website" name="website" value="http://www.somewebsite.com" placeholder="Website">
 			<input type="date" id="birth" name="birth" placeholder="Birthday"><br>
 			<input type="tel" id="phone" name="phone" placeholder="Telephone">
 			<input type="tel" id="mobile" name="mobile" placeholder="Mobile"><br>
@@ -47,7 +47,7 @@
 						$request = new Request();
 						$request->debugMode("on");
 						$request->method("post");
-						$request->recipient("michel.thiel@gmx.net");
+						$request->recipient("john.doe@email.net");
 						$request->emailHeader("From: THIELICIOUS - Customer enquiry from ".$request->getName());
 						$request->send();
 					}
